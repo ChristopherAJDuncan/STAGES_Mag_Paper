@@ -1,0 +1,81 @@
+p.1; Sect. 1:
+* fundamental plane reference - isn't there also a Leauthaud et al. paper who propose this method?
+
+p.2:
+
+Sect. 2.1:
+* subscripts s and later M should be roman
+* Eq. 5 seems a bit out of place, maybe move to Sect. 3.2?
+
+p.3:
+
+* As the convergence (...) vanishES ...; and why 'consequently' number over-density?
+
+Sect. 2.2.1:
+* 'To consider the ???'
+* need to introduce Q when first mentioned; at least outline what D(l) contains
+
+* i),ii): double parentheses; if writing covariance elements do not use bold face and write indices as subscripts; N_z not introduced
+
+Sect. 2.2.2:
+* very confusing and cumbersome to now have same formalism but for 2pt stats. -> write 2.2.1 and 2.2.2 consistently in 2pt stats format
+* Are all three FoMs needed? If you can, throw out FoM (ii)
+
+p.5:
+* need to introduce N_z earlier (see above)
+
+*Sect. 3.2:
+* Fig. 2: adjust panel shapes similar to Fig. 1 to save space
+* Fig. 1&2: reduce no. of points by 2 or 3 -> not that cluttered and smaller error bars
+
+* I don't understand footnote 1...
+
+Sect. 3.3:
+* add statement about the \sigma_\epsilon you use + any other parameters not yet mentioned (if any)
+
+
+Sect. 3.4:
+* Fig. 5: shrink figure to fit column but increase label font
+
+Sect. 4.1:
+* 'set out in Sect. 2.2.1' - rather 2.2?
+
+* perhaps provide guidance by giving an order of magnitude guess for the prior on b one can expect (e.g. using the LSST predictions)
+
+* Fig. 8: add symbols to labels; use exponential notation for colour bar
+
+
+
+Sect. 4.2:
+* |\alpha-1|>0 is always true
+* Fig. 9: need to explain why minimum not at 1 in top panel; 
+
+
+Sect. 4.3:
+* 'Joachimi & Bridle' - add ref. to Hu(99) and Alan's Moped paper [line ~475]
+* 'For the combined case, ...' - worth mentioning that the combined case gains more by increasing N_z than shear, in agreement with JB10 [ is this true, it seems that the combined case continues to gain she the shear flattens, but doesn't gain more than shear at low Nz]
+
+
+Sect. 4.4:
+* 'Traditionally, ..' - that word implies there have been many, but I'm currently not aware of a single application to data; maybe re-word and find references who did this type of analysis
+
+* combine 4.4 and 5 into one section? Same topic really…[ is this true?]
+
+* Section 2.2.2 -> just 2.2?
+
+* 'From Figure ?? ...' - missing ref.
+* are the improvements for marginalised errors? [-marginal constraints?]
+
+* Fig. 11: mention different scaling of axes; perhaps add shear only to all panels, which helps calibrating the different scales [- cannot do until new plotting routine]
+
+
+Sect. 6:
+* conclusions could probably become a bit more concise, can discuss together
+
+References:
+* need to be in MNRAS order (use their bib style file)
+
+Appendix:
+
+
+* Don't see how A5 follows by symmetry

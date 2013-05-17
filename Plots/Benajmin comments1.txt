@@ -1,0 +1,229 @@
+p.1; Sect. 1:
+* 'position and size' - and flux?
+* also cite GREAT10
+* sentence with 3x 'measurement'
+* IA is not a problem of shape measurement but of interpretation of signal, so does not fit in here
+
+* fundamental plane reference - isn't there also a Leauthaud et al. paper who propose this method?
+* 'it's evolution' -> its evolution
+
+* first Scranton et al. reference - double parentheses, leave out those around '2005'
+* by A factor of the ... dispersion SQUARED.
+
+p.2:
+* 'However ...' 2x 'measurement'
+* "Magnification bias ...' - sentence unclear & new paragraph before
+* 'dust extinction and fluctuationS'
+
+* 'are to be made made' - remove 'made'
+* '... Section 2' - add period
+* update summary of sections
+
+Sect. 2.1:
+* Don't capitalise headings (throughout paper)
+* Eq. 1: separation not well defined for a single ellipticity; need \vec{\theta} i.e. position on sky; change also in all subsequent equations
+* \gamma has subscript s in Eq. 1 but not below
+* subscripts s and later M should be roman
+* superscript (i) not defined
+* Eq. 2: define \chi
+* 'fourier space' -> Fourier
+* 'Deflection of ...' - line break before
+
+* ii) 'an change' -> a change
+
+* Eq. 4: double parentheses; introduce line break before \approx
+* 'We have used THE subscript ...'
+* Eq. 5 seems a bit out of place, maybe move to Sect. 3.2?
+
+p.3:
+* introduction of \chi earlier
+
+* Eq. 10: \delta_g not introduced
+* As the convergence (...) vanishES ...; and why 'consequently' number over-density?
+* 'Thus, from Eq. 7 ...' - shear is not in Eq. 7!
+* '... is the Kronecker delta function' -> Kronecker symbol
+
+* 'dependant' -> dependent (check throughout paper)
+* Eqs. 18-23: why list gm and mg but not e.g. k_sm/mk_s?
+
+* 'The final contribution ...' repeats partially what is written below Eq. 14
+
+Sect. 2.2:
+* 'photometric clustering': would the reader understand that? -> galaxy clustering using photo-z or similar, at least when first mentioned
+
+Sect. 2.2.1:
+* 'To consider the ???'
+* 'equation 11' -> Equation 11 (check throught paper)
+* need to introduce Q when first mentioned; at least outline what D(l) contains
+
+* i),ii): double parentheses; if writing covariance elements do not use bold face and write indices as subscripts; N_z not introduced
+
+Sect. 2.2.2:
+* very confusing and cumbersome to now have same formalism but for 2pt stats. -> write 2.2.1 and 2.2.2 consistently in 2pt stats format
+* Are all three FoMs needed? If you can, throw out FoM (ii)
+
+Sect. 3.1:
+* 'least well knowN contribution'
+* sentence with 2x 'non-linear'
+* in addition to Joachimi & Bridle, please also cite Rassat et al. (2008) and/or earlier references if any
+* Eq. (33): no need to change notation, so \chi|z -> \chi(z); k_max also depends on z
+
+* 'By allowing ...' - don't understand; could this sentence perhaps be removed?
+* 'As the shear power spectra ARE not dominated ...' - they don't depend at all on bias... - again, can sentence be removed as this is section on galaxy bias anyway?
+* 'matTer power'
+
+p.5:
+* need to introduce N_z earlier (see above)
+* 'To model the redshift dependEnce ...' - Re-write this paragraph: Assume galaxy bias is independent of scale but z-dep. with one value per zbin, varying independently and w/o bound; treat these as nuisance parameters with three scenarios, i) no prior, ii) fixed bias at fiducial value, iii) prior according to bla bla  - in that spirit
+* write 'for all', avoid symbol (editors apparently don't like it)
+
+* Eq. 35: one column less and it fits nicely into text column
+* explain first what \nu is, then next formula
+
+* 'equivalent to the redshift over which the bias becomes uncorrelated' -> over which the bias is significantly correlated? (not sure if that's what you want to say)
+* 'it's neighbour' -> its
+* 'thus reducing ... This reduces' - avoid repetition and compactify
+
+* ' ... and we expect that, AS we increase the uncertainty...'
+
+Sect. 3.2:
+* PSF-matchED(?)
+* perhaps spell out SED; don't capitalise early and late types; write T>=2 (confusing)
+* Does 'compare favourably' mean they agree? [just me not understanding, leave as is]
+* New paragraph before ' Whilst the value ...' and before 'We therefore define ...'
+* 'cosmic variance is been assumed' -> has been
+* Eq. 38 needs to be explained in more detail, best by writing the full covariance formula and then simplifying
+* is S really an estimator, or rather an estimate?
+* 'Errors are taken from ...' - repetition, remove
+
+* Fig. 1: 'chosen as to the ...' -> chosen as the
+* Fig. 2: 'subs maple' -> subsample; add in caption that panels have different scaling of ordinate axis 
+* Fig. 2: adjust panel shapes similar to Fig. 1 to save space
+* Fig. 1&2: reduce no. of points by 2 or 3 -> not that cluttered and smaller error bars
+
+* 'predominantly ... by late-type galaxies' appears 2x in paragraph -> remove one of the subclauses
+
+* 'playoff' -> interplay?
+* new paragraph before 'For the redshift bins encompassing ...'
+
+* I don't understand footnote 1...
+
+Sect. 3.3:
+* 'a Stage III GROUND-BASED survey'
+* add statement about the \sigma_\epsilon you use + any other parameters not yet mentioned (if any)
+* 'for both galaxy shapes and photometry only' -> for galaxies with valid shape measurement as well as for all galaxies with photometry
+* Fig. 3 needs a caption
+* n needs units throughout the section
+
+Sect. 3.4:
+* 'galaxies distributions' -> galaxy distributions
+* replace 'spectroscopic' with true - spectro-z's can be wrong, too
+* Eq. 39: explain z_l and z_h
+* Eq. 40 is not normalised, so use \propto
+* z_med=z_0 \sqrt{2} only holds for alpha=2 and beta=1.5, so either fix the latter in Eq. 40 or remove statement about z_med-z_0 relation
+* new paragraph before 'Figure 4 ...'
+* 'dominant to' -> dominant over?
+* Wouldn't gm also dominate over mm if redshifts were perfect? The text suggests not...
+* Fig. 4: either caption or panels have wrong order
+* Fig. 5: mention in caption which survey config. you use; shrink figure to fit column but increase label font
+
+Sect. 4.1:
+* 'RESULTS' - Sect. 5 also presents results
+* 'set out in Sect. 2.2.1' - rather 2.2?
+* new paragraph before 'It is evdient that ...'
+* 'However, as discussed in Sect. 4.2' - unnecessary forward reference?
+
+* explain what kernel you mean
+
+* new paragraph before 'We note however that ...'
+* 'Whilst it is clear ...' - remove sentence, repetion
+* 'We draw similar conclusions ...' - list FoM values
+
+* perhaps provide guidance by giving an order of magnitude guess for the prior on b one can expect (e.g. using the LSST predictions)
+
+* Fig. 6: say what contours you show (1sigma?), also in text and Fig. 7; also mention colours of lines
+* Fig. 7: even with unknown b gains in Om-s8 plane seem very good, doesn't match what is written in 4.1; perhaps shorten caption by saying 'Same as Fig. 6, but ...'
+* Fig. 8: add symbols to labels; use exponential notation for colour bar
+
+Sect. 4.2:
+* 'When we are considering galaxy clustering only ...' - long convoluted sentence, don't get the point
+* 'clutering powers spectrum' -> power
+
+* |\alpha-1|>0 is always true
+* '(as evident from ...' - don't see that from the figure
+* 'degeneracy breaking' - add reference to Fig. 6
+* 'doesn't' - does not
+
+* Fig. 9: need to explain why minimum not at 1 in top panel; add 'Note the different scaling of the ordinate axes.'; need to say what's in top and bottom panel; why not use same FoM as in Fig. 8?
+
+Sect. 4.3:
+* 'Finally, ...' - no there's more to come
+* Have you said somewhere how you set the redshift bins for Fig. 10?
+* 'Joachimi & Bridle' - add ref. to Hu(99) and Alan's Moped paper
+* 'magnification analysis' - you mean clustering?
+* 'For the combined case, ...' - worth mentioning that the combined case gains more by increasing N_z than shear, in agreement with JB10
+
+* Fig. 10: say which line is which
+
+Sect. 4.4:
+* 'Traditionally, ..' - that word implies there have been many, but I'm currently not aware of a single application to data; maybe re-word and find references who did this type of analysis
+* 'the auto-correlations for foreground and background in the same redshift bin' - then there is no foreground and background -> 'for auto-correlations of redshift bins'
+* combine 4.4 and 5 into one section? Same topic really...
+
+* Section 2.2.2 -> just 2.2?
+
+* 'constraints comeS from'
+* 'and measured from CFHTLenS' - don't understand, typo?
+
+* 'From Figure ?? ...' - missing ref.
+* are the improvements for marginalised errors?
+
+* Fig. 11: mention different scaling of axes; perhaps add shear only to all panels, which helps calibrating the different scales
+
+Sect. 5:
+* Eq. 41: missing sum over k and j; use 'q' for parameters to be consistent with Sect. 2?
+* 'auto clustering only' - spell out as in previous sections
+* 'between measured and assumed parameters' - confusing wording, can you use different descriptors? 
+
+* 'and we move form' -> as we move from
+
+* 'contrast pose spectrum' -> power
+* 'This may be expected, ...' - missing 'because' somewhere?; long sentence, please tidy up a bit
+* new paragraph before 'Thus, by...'
+* 'parameter constrainTs'
+* maybe remove sentence 'Thus, by ...' - not much information in there
+
+* Table 1: emphasise in caption that these are redshift auto-correlations; statistical error means 1\sigma?
+ 
+Sect. 6:
+* 'two typeS'
+* period missing at end of 1st paragraph
+* mention that magnification is also considered somewhere in 1st paragraph
+
+* 'above l-modes above' - re-formulate
+* 'density fluctuations is' -> are
+
+* 'values be biases' -> biased
+* 'often by larger than' -> more than
+
+* clarify that magnification does not help much in degeneracy breaking, as opposed to clustering
+* 'redshift ins combinations' -> bin
+* 'measure and model that magnification' - remove 'that'?
+* new paragraph before 'Similarly, ...'
+* 'measurements to cosmic shear' -> with cosmoc shear
+* conclusions could probably become a bit more concise, can discuss together
+
+References:
+* need to be in MNRAS order (use their bib style file)
+
+Appendix:
+* need to say that the likelihood is Gaussian?
+* Eq. A1: what's p and the over-bar, and \bar{0}?
+* '... with \chi^2= ...' - put all this into Eq. A2 and remove 'satisfies'. Or is A2 a special case? Then this needs to be made clearer
+* Eq. A2: what's n? N_z?
+* Eq. A3: \sigma -> \sigma_r?, double parentheses
+* M_ij bold M is not -> swap
+* Don't see how A5 follows by symmetry
+* 'x_1 is the determinant ...' starts with symbol
+* Where does \sigma_\nu in A10 come from?
+* Don't understand from this appendix why b=\sigma_0/\sqrt{N_z}
