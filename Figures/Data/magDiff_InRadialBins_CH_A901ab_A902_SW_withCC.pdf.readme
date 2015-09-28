@@ -1,0 +1,5 @@
+Produced on eday, using compare_Magnitude_Difference_CContamination_byCluster_inRadialBins_byCut.py, in Catalogues/Manipulation.
+
+The global average varies strongly with unmasked area. Ideally, one would want to mask around the clusters for the averga *number density*, however in doing so it is not obvious how this links with the global masks applied to the data, so the global number density is taken from the data after a bright cut, and redshift cut (and SNR cut if appropriate: here, no SNR cut is applied).
+
+Global magnitude does use a mask around the clusters.

@@ -1,0 +1,1 @@
+Produced on westray, using get_Size_Distribution_withComparison.py, a very hacked version of the original. Implements redshift cut, and a large size cut (T<150). giving sigma_lnT = 0.89, and sigma_lnT = 0.99 if no cuts are used. The former is more like a Gaussian (as can be seen in the plot), so this value of the variance is closer to the truth (as lower cut removes Gaussianity
